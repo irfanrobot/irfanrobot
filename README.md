@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">Actually Coding for Curiosity. No, i mean. . . for Money (Not Really like this job so much), i'd like to become farmer someday</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanrobot&label=Profile%20views&color=0e75b6&style=flat" alt="irfanrobot" /> </p>
 
