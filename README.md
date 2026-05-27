@@ -69,13 +69,6 @@ I am a motivated and results-driven **IT Developer** with experience in designin
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanrobot&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=00e5ff&icon_color=00e5ff&text_color=e2e8f0&border_color=1e293b" alt="GitHub Stats" width="400" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrobot&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=00e5ff&icon_color=00e5ff&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" width="350" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanrobot&theme=tokyonight&background=0f172a&ring=00e5ff&fire=ff007f&currRing=ff007f&sideNums=e2e8f0&stroke=1e293b" alt="Streak Stats" width="765" />
 </p>
