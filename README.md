@@ -9,12 +9,11 @@
 
 ### 💫 About Me
 
-I am a motivated and results-driven **IT Developer** with 2+ years of experience in designing, developing, and implementing software solutions. I specialize in building secure, scalable web applications, developing RESTful APIs, and implementing robust cybersecurity and data protection measures.
+I am a motivated and results-driven **IT Developer** with experience in designing, developing, and implementing software solutions. I specialize in building secure, scalable web applications, developing RESTful APIs, and optimizing database performance.
 
-- 🚀 Currently working as an **IT Developer** at **PT Multimedia Nusantara (Telkommetra)**.
-- 🎓 Graduated with a Physics degree from **IPB University** and completed the **Bangkit Machine Learning Academy**.
-- 🔐 Strong interest in **Cybersecurity**, data privacy compliance (**ISO 27001:2013**, **GDPR**), and **Secure Coding Practices**.
-- 🛠️ Developer of automation tools, secure backend architectures, and clean responsive frontends.
+- 🤖 **Automation**: Developing tools and scripts to optimize workflows and reduce repetitive tasks.
+- 🔐 **Cybersecurity**: Implementing secure coding practices, data encryption, and ensuring compliance (ISO 27001 & GDPR).
+- 🧠 **Machine Learning & AI**: Building predictive models, training neural networks, and leveraging AI technologies.
 
 ---
 
