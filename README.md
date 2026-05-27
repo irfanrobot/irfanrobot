@@ -9,12 +9,12 @@
 
 ### 💫 About Me
 
-I am a passionate **Software Engineer** and **Network Engineering Enthusiast** based in Indonesia. I love building automated tools, developing robust backend systems, and configuring network architectures. 
+I am a motivated and results-driven **IT Developer** with 2+ years of experience in designing, developing, and implementing software solutions. I specialize in building secure, scalable web applications, developing RESTful APIs, and implementing robust cybersecurity and data protection measures.
 
-- 🚀 Currently working on automation scripts, backend development, and web apps.
-- 🎓 Passionate about learning **Golang**, **React**, and **Advanced Computer Networking**.
-- 🛠️ Creator of **AutoPDF** — an automation tool to streamline document capture and stitching.
-- 💬 Ask me about **Computer Networking (Jaringan Komputer)**, **Go**, or **Python Scripting**.
+- 🚀 Currently working as an **IT Developer** at **PT Multimedia Nusantara (Telkommetra)**.
+- 🎓 Graduated with a Physics degree from **IPB University** and completed the **Bangkit Machine Learning Academy**.
+- 🔐 Strong interest in **Cybersecurity**, data privacy compliance (**ISO 27001:2013**, **GDPR**), and **Secure Coding Practices**.
+- 🛠️ Developer of automation tools, secure backend architectures, and clean responsive frontends.
 
 ---
 
@@ -23,46 +23,46 @@ I am a passionate **Software Engineer** and **Network Engineering Enthusiast** b
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
+      <br>Laravel
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
@@ -84,5 +84,5 @@ I am a passionate **Software Engineer** and **Network Engineering Enthusiast** b
 ---
 
 <p align="center">
-  🚀 <i>"The only limit to our realization of tomorrow will be our doubts of today."</i>
+  🚀 <i>"Improving software quality, efficiency, and security every single day."</i>
 </p>
