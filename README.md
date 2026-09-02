@@ -9,11 +9,10 @@
 
 ### 💫 About Me
 
-I am a motivated and results-driven **IT Developer** with experience in designing, developing, and implementing software solutions. I specialize in building secure, scalable web applications, developing RESTful APIs, and optimizing database performance.
+I was a physics major once a while. I was insecure and searching for my identity by exploring various fields image processing, data science, programming, machine learning, and now cybersecurity.
 
-- 🤖 **Automation**: Developing tools and scripts to optimize workflows and reduce repetitive tasks.
-- 🔐 **Cybersecurity**: Implementing secure coding practices, data encryption, and ensuring compliance (ISO 27001 & GDPR).
-- 🧠 **Machine Learning & AI**: Building predictive models, training neural networks, and leveraging AI technologies.
+Here I am now, searching for and sometimes creating things that make my life easier.
+
 
 ---
 
